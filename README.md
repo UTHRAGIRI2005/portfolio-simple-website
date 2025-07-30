@@ -1,5 +1,3 @@
-# portfolio-simple-website
-# portfolio-simple-website
 # 💼 Simple Portfolio Website
 
 This is a simple and responsive personal portfolio website built using **HTML** and **CSS**. It showcases my profile, projects, and contact information in a clean and user-friendly layout.
